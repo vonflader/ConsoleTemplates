@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "vonflader",
+  "classifications": [ "Common", "Console", "C#9" ],
+  "identity": "ConsoleTemplates.ConsoleDiTemplate",
+  "name": "Basic console DI template",
+  "shortName": "console-di",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
